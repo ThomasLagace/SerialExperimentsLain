@@ -2,6 +2,8 @@
 Vim Colorscheme
 
 Colorscheme inspired by Serial Experiments Lain.
+Fork by Thomas Lagace
+Original by [lu-ren](https://github.com/lu-ren/SerialExperimentsLain "lu-ren").
 
 Python Screenshot
 ![alt text][python]
